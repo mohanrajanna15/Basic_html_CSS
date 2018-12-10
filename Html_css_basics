@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    
+<title>My welcome page</title>
+</head>
+<body style ="background-color: background">
+<link rel="stylesheet" href="css/style.css">
+<h1 style="font-size:60px; color:red;" >My First Heading</h1>
+<h2>My 2nd Heading</h2>
+<h3 style="color:blanchedalmond; border:2px solid beige; font-size: 30px; text-align: center; font-family: courier">My 3rd Heading</h3>
+<p style=  ; title= "someting">My first paragraph.</p>
+<hr>
+<bdo dir="rtl">This line will be written from right to left</bdo>
+
+<a href="https://www.w3schools.com">This is a link to W3schools.com</a>
+<img class= "img.avatar" src="img/LinkedIn_Profile.jpg" alt="Funny Rabbit" >
+<br>
+<br>
+<button class="button">Click me</button>
+<ul title="Please opt one">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+</body>
+</html>
+#Htmlquotations

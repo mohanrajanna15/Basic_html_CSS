@@ -4,17 +4,37 @@
     
 <title>My welcome page</title>
 </head>
-<body style ="background-color: background">
+<body style="background-color: rgba(120,110,100,0.1)">
 <link rel="stylesheet" href="css/style.css">
-<h1 style="font-size:60px; color:red;" >My First Heading</h1>
-<h2>My 2nd Heading</h2>
-<h3 style="color:blanchedalmond; border:2px solid beige; font-size: 30px; text-align: center; font-family: courier">My 3rd Heading</h3>
-<p style=  ; title= "someting">My first paragraph.</p>
+<h1 style="font-size:25px; color:black;" >Mohan Rajanna, Cybersecurity Professional</h1>
+<a href="https://www.linkedin.com/in/mohan-rajanna-91a00a4a/" target="_blank" title="click on image for my LinkedIn page">
+        <img src="img/LinkedIn_Profile.jpg" alt="Funny Rabbit" width="200" height="200" >
+        </a>
+<p style=  ; title= "Homepage demo">Welcome to my home page, Stick with me this webpage is currently under contruction </p>
+<h3 style="color:black; border:2px solid turquoise; font-size: 30px; text-align: left; font-family: courier">Biography Summary</h3>
+<p style=  ; title= "Biography Summary">I am an upcoming Cyber Security professional with interest in Threat Intelligence, Information Security Analysis, Penetration Testing, and Security Operations .
+Previously, I have a demonstrated history of working in Information Technology and services industry for more than <b><i>eight years</i></b>. <hr>
+• Planning Business analysis approach, governance and information management. <hr>
+• Elicitation and compiling Business requirements, Functional requirements and Non-Functional Requirements.<hr>
+• Design, scope, prioritize, and maintain Business requirements from inception to retirement.<hr>
+• Ensure Business stakeholder and solution requirements are aligned with one another.<hr>
+• Analyze change impact assessments by establishing the current state and future solution state. <hr>
+• Stakeholder engagement and business communication across all the enterprise level.<hr>
+• Communicate project status and collaborate with Project sponsors, organization change managers, Service managers, and team members.<hr>
+• Create user stories and define user acceptance and evaluation criteria for use cases.<hr>
+• Creating sequence flow diagrams for functional decomposition.<hr>
+• Risk identification and establish risk mitigation plan.<hr>
+• Work closely with solution architects and design teams to meet Business required solution.<hr>
+• Conduct test schedules, review test plan, track defects and report on test results.<hr>
+• Coordinate and conduct User acceptance testing with appropriate Business users.<hr>
+• Prepare user guide and standard operating procedures for end user training. <hr>
+• Project deployment and release coordination.<hr>
+• Troubleshoot any project warranted defects by working with production operation teams.</p>
 <hr>
-<bdo dir="rtl">This line will be written from right to left</bdo>
+<!--<bdo dir="rtl">This line will be written from right to left</bdo> -->
 
-<a href="https://www.w3schools.com">This is a link to W3schools.com</a>
-<img class= "img.avatar" src="img/LinkedIn_Profile.jpg" alt="Funny Rabbit" >
+<a href="https://www.linkedin.com/in/mohan-rajanna-91a00a4a/" target="_blank">Click here to connect with me on LinkedIn</a>
+
 <br>
 <br>
 <button class="button">Click me</button>
@@ -25,4 +45,4 @@
 </ul>
 </body>
 </html>
-#Htmlquotations
+#Htmllinks

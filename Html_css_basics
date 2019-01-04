@@ -6,6 +6,7 @@
 </head>
 <body style="background-color: rgba(120,110,100,0.1)">
 <link rel="stylesheet" href="css/style.css">
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <h1 style="font-size:25px; color:black;" >Mohan Rajanna, Cybersecurity Professional</h1>
 <a href="https://www.linkedin.com/in/mohan-rajanna-91a00a4a/" target="_blank" title="click on image for my LinkedIn page">
         <img src="img/LinkedIn_Profile.jpg" alt="Funny Rabbit" width="200" height="200" >
